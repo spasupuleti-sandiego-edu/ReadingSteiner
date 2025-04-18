@@ -1,0 +1,5 @@
+1,com.readingsteiner.utils.MathUtils.calculateFibonacci,13,2070,1490,2025-04-11 10:22:45,true
+2,com.readingsteiner.utils.MathUtils.calculateFibonacci,15,2100,1600,2025-04-11 10:25:12,false
+3,com.readingsteiner.io.FileLoader.loadConfig,9,1050,890,2025-04-11 10:30:00,true
+4,com.readingsteiner.analysis.Analyzer.processData,22,4300,3200,2025-04-11 11:00:35,false
+5,com.readingsteiner.analysis.Analyzer.processData,19,4000,2950,2025-04-11, false

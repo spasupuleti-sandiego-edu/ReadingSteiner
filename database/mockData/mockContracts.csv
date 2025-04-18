@@ -1,0 +1,3 @@
+1,com.readingsteiner.utils.MathUtils.calculateFibonacci,MathUtils,12,2048,1500,2025-04-10 14:35:22,"Initial contract - v1"
+2,com.readingsteiner.io.FileLoader.loadConfig,FileLoader,8,1024,900,2025-04-10 14:36:00,"Baseline from test_config.json"
+3,com.readingsteiner.analysis.Analyzer.processData,Analyzer,20,4096,3000,2025-04-10 14:40:10,"Stable metrics after optimization"

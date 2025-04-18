@@ -1,0 +1,29 @@
+//launch sqlite3
+sqlite3
+
+//open the ReadingSteiner database
+.open ReadingSteiner.db
+
+//list all tables in database
+.tables
+
+//check the schema of a table
+.schema table_name
+
+//read in sql file
+.read sql_file_name.sql
+
+//set mode to read in some csv files
+.mode csv
+import csv_file_name.csv table_name
+
+//SQLite saves the output in some_file.csv
+.output some_file.csv
+SELECT * FROM table; 
+
+//SQLite presents the output again in the console screen
+.output
+SELECT * FROM table;
+
+//clear terminal
+.shell cls
